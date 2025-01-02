@@ -1,8 +1,8 @@
-Hi there 👋 I'm *Sharif*, a neuroscientist!
+Hi there 👋 I'm Sharif!
 
-I received my PhD from Dartmouth College and currently am a Postdoctoral Scholar at Stanford School of Medicine. My research uses various experimental and computational methods to study vision in human and non-human primates.
+I have a Ph.D. in Cognitive Neuroscience and am currently a postdoc at Stanford University School of Medicine. I use various experimental and computational methods in my research to study vision in human and non-human primates.
 
-## 🔬 Some questions that I find interesting
+## 🔬 Some interesting questions
 
 - What are the differences between population-level neuronal representations of conscious and unconscious stimuli?
 - How does the visual system maintain stability in perception despite constant changes in the retinal image?
