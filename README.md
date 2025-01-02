@@ -1,5 +1,3 @@
-#
-
 Hi there 👋 I'm *Sharif*, a neuroscientist!
 
 I received my PhD from Dartmouth College and currently am a Postdoctoral Scholar at Stanford School of Medicine. My research uses various experimental and computational methods to study vision in human and non-human primates.
