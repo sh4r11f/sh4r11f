@@ -5,7 +5,7 @@ I received my PhD from Dartmouth College and currently am a Postdoctoral Scholar
 ## 🔬 Some questions that I find interesting
 
 - What are the differences between population-level neuronal representations of conscious and unconscious stimuli?
-- How does the visual system maintain stability in perception despite constant changes of the retinal image?
+- How does the visual system maintain stability in perception despite constant changes in the retinal image?
 - Which neuronal mechanisms allow perceptual inference?
 - How do high-level cognitive functions like attention and learning modulate the activity of the population of neurons in visual cortex?
 
