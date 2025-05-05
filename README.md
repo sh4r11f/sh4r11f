@@ -1,6 +1,6 @@
 Hi there 👋 I'm Sharif!
 
-I have a Ph.D. in Cognitive Neuroscience and am currently a postdoc at Stanford University School of Medicine. I use various experimental and computational methods in my research to study vision in human and non-human primates.
+I'm a postdoc at Stanford University in the department of Neurobiology. I use various experimental and computational methods in my research to study vision in human and non-human primates.
 
 ## 🔬 Some interesting questions
 
